@@ -1,0 +1,11 @@
+{
+    "name": "02_node_example",
+    "version": "1.0.0",
+    "description": "A simple Node.js example project",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Dhafin Kamil",
+    "license": "ISC"
+}
